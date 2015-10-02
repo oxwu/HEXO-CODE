@@ -1,3 +1,4 @@
+layout: post
 title: 放学后的故事
 date: 2015-10-02 17:48:44
 categories: 教养
