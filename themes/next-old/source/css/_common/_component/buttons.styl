@@ -1,0 +1,26 @@
+.btn {
+  display: inline-block;
+  font-size: 15px;
+  color: #000;
+  background: #fff;
+  border: 0px solid $btn-default-border;
+  text-decoration: none;
+  border-bottom: 2px solid #000;
+  the-transition();
+
+  &:hover {
+    border-color: $btn-default-hover-border-color;
+    color: $btn-default-hover-color;
+    border-bottom: 2px solid #000;
+  }
+}
+
+.btn-bar {
+  display: block;
+  width: 22px;
+  height: 2px;
+  background: $text-color;
+  border-radius: 1px;
+
+  &+.btn-bar { margin-top: 4px; }
+}

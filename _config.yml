@@ -5,7 +5,7 @@
 # Site
 title: Leo's Notes
 subtitle: 敬畏耶和华是智慧的开端
-description:
+description: 凡事包容，凡事相信，凡事盼望，凡事忍耐
 author: Leo Au
 language: zh-Hans
 timezone:
@@ -73,3 +73,5 @@ theme: next
 deploy:
   type:git
   
+
+swiftype_key: d6zfvZ664MfFHxCfxR52
