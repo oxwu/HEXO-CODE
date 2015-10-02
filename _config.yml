@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Leo's Note
+title: Leo's Notes
 subtitle: 敬畏耶和华是智慧的开端
 description:
 author: Leo Au
@@ -15,7 +15,7 @@ plugins:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://leoau.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
